@@ -7,7 +7,7 @@
       "price": 45000,
       "available": true,
       "releaseDate": "2023-05-15",
-      "imageUrl": "https://example.com/bmw3series.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/malik0809/project/refs/heads/main/images/car1.jpeg",
       "category": "Sedan",
       "features": ["Automatische transmissie", "Lederen zetels", "Navigatiesysteem"],
       "dealerInfo": {
@@ -25,7 +25,7 @@
       "price": 75000,
       "available": false,
       "releaseDate": "2022-11-20",
-      "imageUrl": "https://example.com/bmwx5.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/malik0809/project/refs/heads/main/images/car2.jpeg",
       "category": "SUV",
       "features": ["Vierwielaandrijving", "Panoramadak", "Head-up display"],
       "dealerInfo": {
@@ -43,7 +43,7 @@
       "price": 82000,
       "available": true,
       "releaseDate": "2023-09-10",
-      "imageUrl": "https://example.com/bmwm4.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/malik0809/project/refs/heads/main/images/car3.jpeg",
       "category": "Coupe",
       "features": ["Sportuitlaat", "Adaptieve ophanging", "Carbon dak"],
       "dealerInfo": {
@@ -61,7 +61,7 @@
       "price": 60000,
       "available": true,
       "releaseDate": "2024-02-01",
-      "imageUrl": "https://example.com/bmwi4.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/malik0809/project/refs/heads/main/images/car4.jpeg",
       "category": "Electric",
       "features": ["Elektrische aandrijving", "Groot touchscreen", "Adaptive cruise control"],
       "dealerInfo": {
@@ -79,7 +79,7 @@
       "price": 95000,
       "available": false,
       "releaseDate": "2022-08-18",
-      "imageUrl": "https://example.com/bmwx7.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/malik0809/project/refs/heads/main/images/car5.jpeg",
       "category": "SUV",
       "features": ["Zeven zitplaatsen", "Luchtvering", "360 graden camera"],
       "dealerInfo": {
@@ -97,7 +97,7 @@
       "price": 58000,
       "available": true,
       "releaseDate": "2023-07-10",
-      "imageUrl": "https://example.com/bmwz4.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/malik0809/project/refs/heads/main/images/car6.jpeg",
       "category": "Roadster",
       "features": ["Open dak", "Sportstoelen", "Harman Kardon audiosysteem"],
       "dealerInfo": {
@@ -115,7 +115,7 @@
       "price": 40000,
       "available": true,
       "releaseDate": "2023-10-05",
-      "imageUrl": "https://example.com/bmwx1.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/malik0809/project/refs/heads/main/images/car7.jpeg",
       "category": "Compact SUV",
       "features": ["Efficiënte motor", "Ruime koffer", "Digitale cockpit"],
       "dealerInfo": {
@@ -133,7 +133,7 @@
       "price": 70000,
       "available": false,
       "releaseDate": "2023-06-20",
-      "imageUrl": "https://example.com/bmw5series.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/malik0809/project/refs/heads/main/images/car8.jpeg",
       "category": "Luxury Sedan",
       "features": ["Comfortabele stoelen", "Groot infotainmentscherm", "Adaptieve LED-koplampen"],
       "dealerInfo": {
@@ -149,7 +149,7 @@
       "price": 65000,
       "available": true,
       "releaseDate": "2023-12-15",
-      "imageUrl": "https://example.com/bmwiX3.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/malik0809/project/refs/heads/main/images/car9.jpeg",
       "category": "Electric SUV",
       "features": ["Elektrische aandrijving", "Snelladen", "Sportieve rijeigenschappen"],
       "dealerInfo": {
@@ -167,7 +167,7 @@
       "price": 110000,
       "available": false,
       "releaseDate": "2023-04-30",
-      "imageUrl": "https://example.com/bmw7series.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/malik0809/project/refs/heads/main/images/car10.jpeg",
       "category": "Luxury Sedan",
       "features": ["Massage stoelen", "Groot infotainmentscherm", "Executive lounge"],
       "dealerInfo": {
