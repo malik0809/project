@@ -9,14 +9,12 @@
       "releaseDate": "2023-05-15",
       "imageUrl": "https://raw.githubusercontent.com/malik0809/project/refs/heads/main/images/car1.jpeg",
       "category": "Sedan",
-      "features": ["Automatische transmissie", "Lederen zetels", "Navigatiesysteem"],
-      "dealerInfo": {
-        "id": 101,
-        "name": "Premium Auto Dealers",
-        "location": "Amsterdam, Nederland",
-        "contact": "+31 20 123 4567",
-        "website": "https://premiumautodealers.nl"
-      }
+      "features": [
+        "Automatische transmissie",
+        "Lederen zetels",
+        "Navigatiesysteem"
+      ],
+      "dealerId": 101
     },
     {
       "id": 2,
@@ -27,14 +25,12 @@
       "releaseDate": "2022-11-20",
       "imageUrl": "https://raw.githubusercontent.com/malik0809/project/refs/heads/main/images/car2.jpeg",
       "category": "SUV",
-      "features": ["Vierwielaandrijving", "Panoramadak", "Head-up display"],
-      "dealerInfo": {
-        "id": 102,
-        "name": "Luxury Cars BV",
-        "location": "Rotterdam, Nederland",
-        "contact": "+31 10 987 6543",
-        "website": "https://luxurycarsbv.nl"
-      }
+      "features": [
+        "Vierwielaandrijving",
+        "Panoramadak",
+        "Head-up display"
+      ],
+      "dealerId": 102
     },
     {
       "id": 3,
@@ -45,14 +41,12 @@
       "releaseDate": "2023-09-10",
       "imageUrl": "https://raw.githubusercontent.com/malik0809/project/refs/heads/main/images/car3.jpeg",
       "category": "Coupe",
-      "features": ["Sportuitlaat", "Adaptieve ophanging", "Carbon dak"],
-      "dealerInfo": {
-        "id": 103,
-        "name": "M Performance Center",
-        "location": "Utrecht, Nederland",
-        "contact": "+31 30 567 1234",
-        "website": "https://mperformancecenter.nl"
-      }
+      "features": [
+        "Sportuitlaat",
+        "Adaptieve ophanging",
+        "Carbon dak"
+      ],
+      "dealerId": 103
     },
     {
       "id": 4,
@@ -63,14 +57,12 @@
       "releaseDate": "2024-02-01",
       "imageUrl": "https://raw.githubusercontent.com/malik0809/project/refs/heads/main/images/car4.jpeg",
       "category": "Electric",
-      "features": ["Elektrische aandrijving", "Groot touchscreen", "Adaptive cruise control"],
-      "dealerInfo": {
-        "id": 104,
-        "name": "Future Mobility",
-        "location": "Eindhoven, Nederland",
-        "contact": "+31 40 876 5432",
-        "website": "https://futuremobility.nl"
-      }
+      "features": [
+        "Elektrische aandrijving",
+        "Groot touchscreen",
+        "Adaptive cruise control"
+      ],
+      "dealerId": 104
     },
     {
       "id": 5,
@@ -81,14 +73,12 @@
       "releaseDate": "2022-08-18",
       "imageUrl": "https://raw.githubusercontent.com/malik0809/project/refs/heads/main/images/car5.jpeg",
       "category": "SUV",
-      "features": ["Zeven zitplaatsen", "Luchtvering", "360 graden camera"],
-      "dealerInfo": {
-        "id": 105,
-        "name": "Luxury SUVs BV",
-        "location": "Den Haag, Nederland",
-        "contact": "+31 70 123 9876",
-        "website": "https://luxurysuvsbv.nl"
-      }
+      "features": [
+        "Zeven zitplaatsen",
+        "Luchtvering",
+        "360 graden camera"
+      ],
+      "dealerId": 105
     },
     {
       "id": 6,
@@ -99,14 +89,12 @@
       "releaseDate": "2023-07-10",
       "imageUrl": "https://raw.githubusercontent.com/malik0809/project/refs/heads/main/images/car6.jpeg",
       "category": "Roadster",
-      "features": ["Open dak", "Sportstoelen", "Harman Kardon audiosysteem"],
-      "dealerInfo": {
-        "id": 106,
-        "name": "Sport Cars NL",
-        "location": "Groningen, Nederland",
-        "contact": "+31 50 654 3210",
-        "website": "https://sportcarsnl.nl"
-      }
+      "features": [
+        "Open dak",
+        "Sportstoelen",
+        "Harman Kardon audiosysteem"
+      ],
+      "dealerId": 106
     },
     {
       "id": 7,
@@ -117,14 +105,12 @@
       "releaseDate": "2023-10-05",
       "imageUrl": "https://raw.githubusercontent.com/malik0809/project/refs/heads/main/images/car7.jpeg",
       "category": "Compact SUV",
-      "features": ["Efficiënte motor", "Ruime koffer", "Digitale cockpit"],
-      "dealerInfo": {
-        "id": 107,
-        "name": "City Cars",
-        "location": "Haarlem, Nederland",
-        "contact": "+31 23 987 6543",
-        "website": "https://citycars.nl"
-      }
+      "features": [
+        "Efficiënte motor",
+        "Ruime koffer",
+        "Digitale cockpit"
+      ],
+      "dealerId": 107
     },
     {
       "id": 8,
@@ -135,14 +121,14 @@
       "releaseDate": "2023-06-20",
       "imageUrl": "https://raw.githubusercontent.com/malik0809/project/refs/heads/main/images/car8.jpeg",
       "category": "Luxury Sedan",
-      "features": ["Comfortabele stoelen", "Groot infotainmentscherm", "Adaptieve LED-koplampen"],
-      "dealerInfo": {
-        "id": 108,
-        "name": "Business Auto's",
-        "location": "Tilburg, Nederland",
-        "contact": "+31 13 765 4321",
-        "website": "https://businessautos.nl"
-      }
+      "features": [
+        "Comfortabele stoelen",
+        "Groot infotainmentscherm",
+        "Adaptieve LED-koplampen"
+      ],
+      "dealerId": 108
+    },
+    {
       "id": 9,
       "name": "BMW iX3",
       "description": "De BMW iX3 is een volledig elektrische SUV met een strak design en efficiënte prestaties.",
@@ -151,14 +137,12 @@
       "releaseDate": "2023-12-15",
       "imageUrl": "https://raw.githubusercontent.com/malik0809/project/refs/heads/main/images/car9.jpeg",
       "category": "Electric SUV",
-      "features": ["Elektrische aandrijving", "Snelladen", "Sportieve rijeigenschappen"],
-      "dealerInfo": {
-        "id": 109,
-        "name": "Green Mobility",
-        "location": "Breda, Nederland",
-        "contact": "+31 76 234 5678",
-        "website": "https://greenmobility.nl"
-      }
+      "features": [
+        "Elektrische aandrijving",
+        "Snelladen",
+        "Sportieve rijeigenschappen"
+      ],
+      "dealerId": 109
     },
     {
       "id": 10,
@@ -169,14 +153,12 @@
       "releaseDate": "2023-04-30",
       "imageUrl": "https://raw.githubusercontent.com/malik0809/project/refs/heads/main/images/car10.jpeg",
       "category": "Luxury Sedan",
-      "features": ["Massage stoelen", "Groot infotainmentscherm", "Executive lounge"],
-      "dealerInfo": {
-        "id": 110,
-        "name": "Elite Auto’s",
-        "location": "Maastricht, Nederland",
-        "contact": "+31 43 876 5432",
-        "website": "https://eliteautos.nl"
-      }
+      "features": [
+        "Massage stoelen",
+        "Groot infotainmentscherm",
+        "Executive lounge"
+      ],
+      "dealerId": 110
     }
   ]
 }
