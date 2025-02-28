@@ -8,7 +8,7 @@ export interface Car {
     imageUrl: string;
     category: string;
     features: string[];
-    dealerInfo: Dealership;
+    dealerId: number;
 }
 
 export interface Dealership {
