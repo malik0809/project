@@ -1,0 +1,74 @@
+{
+    "dealers": [
+        {
+            "id": 101,
+            "name": "Premium Auto Dealers",
+            "location": "Amsterdam, Nederland",
+            "contact": "+31 20 123 4567",
+            "website": "https://premiumautodealers.nl"
+        },
+        {
+            "id": 102,
+            "name": "Luxury Cars BV",
+            "location": "Rotterdam, Nederland",
+            "contact": "+31 10 987 6543",
+            "website": "https://luxurycarsbv.nl"
+        },
+        {
+            "id": 103,
+            "name": "M Performance Center",
+            "location": "Utrecht, Nederland",
+            "contact": "+31 30 567 1234",
+            "website": "https://mperformancecenter.nl"
+        },
+        {
+            "id": 104,
+            "name": "Future Mobility",
+            "location": "Eindhoven, Nederland",
+            "contact": "+31 40 876 5432",
+            "website": "https://futuremobility.nl"
+        },
+        {
+            "id": 105,
+            "name": "Luxury SUVs BV",
+            "location": "Den Haag, Nederland",
+            "contact": "+31 70 123 9876",
+            "website": "https://luxurysuvsbv.nl"
+        },
+        {
+            "id": 106,
+            "name": "Sport Cars NL",
+            "location": "Groningen, Nederland",
+            "contact": "+31 50 654 3210",
+            "website": "https://sportcarsnl.nl"
+        },
+        {
+            "id": 107,
+            "name": "City Cars",
+            "location": "Haarlem, Nederland",
+            "contact": "+31 23 987 6543",
+            "website": "https://citycars.nl"
+        },
+        {
+            "id": 108,
+            "name": "Business Auto's",
+            "location": "Tilburg, Nederland",
+            "contact": "+31 13 765 4321",
+            "website": "https://businessautos.nl"
+        },
+        {
+            "id": 109,
+            "name": "Green Mobility",
+            "location": "Breda, Nederland",
+            "contact": "+31 76 234 5678",
+            "website": "https://greenmobility.nl"
+        },
+        {
+            "id": 110,
+            "name": "Elite Auto’s",
+            "location": "Maastricht, Nederland",
+            "contact": "+31 43 876 5432",
+            "website": "https://eliteautos.nl"
+        }
+    ]
+}
