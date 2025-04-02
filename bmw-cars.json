@@ -1,161 +1,222 @@
-[    {
-      "id": 1,
-      "name": "BMW 3 Series",
-      "description": "De BMW 3 Serie is een sportieve en elegante sedan met uitstekende rijeigenschappen.",
-      "price": 45000,
-      "available": true,
-      "releaseDate": "2023-05-15",
-      "imageUrl": "https://raw.githubusercontent.com/malik0809/project/refs/heads/main/images/car1.jpeg",
-      "category": "Sedan",
-      "features": [
-        "Automatische transmissie",
-        "Lederen zetels",
-        "Navigatiesysteem"
-      ],
-      "dealerId": 101
+[
+    {
+        "id": 1,
+        "name": "BMW 3 Series",
+        "description": "De BMW 3 Serie is een sportieve en elegante sedan met uitstekende rijeigenschappen.",
+        "price": 45000,
+        "available": true,
+        "releaseDate": "2023-05-15",
+        "imageUrl": "https://raw.githubusercontent.com/malik0809/project/refs/heads/main/images/car1.jpeg",
+        "category": "Sedan",
+        "features": [
+            "Automatische transmissie",
+            "Lederen zetels",
+            "Navigatiesysteem"
+        ],
+        "dealer": {
+            "id": 101,
+            "name": "Premium Auto Dealers",
+            "location": "Amsterdam, Nederland",
+            "contact": "+31 20 123 4567",
+            "website": "https://premiumautodealers.nl"
+        }
     },
     {
-      "id": 2,
-      "name": "BMW X5",
-      "description": "De BMW X5 is een luxueuze SUV met krachtige prestaties en geavanceerde technologie.",
-      "price": 75000,
-      "available": false,
-      "releaseDate": "2022-11-20",
-      "imageUrl": "https://raw.githubusercontent.com/malik0809/project/refs/heads/main/images/car2.jpeg",
-      "category": "SUV",
-      "features": [
-        "Vierwielaandrijving",
-        "Panoramadak",
-        "Head-up display"
-      ],
-      "dealerId": 102
+        "id": 2,
+        "name": "BMW X5",
+        "description": "De BMW X5 is een luxueuze SUV met krachtige prestaties en geavanceerde technologie.",
+        "price": 75000,
+        "available": false,
+        "releaseDate": "2022-11-20",
+        "imageUrl": "https://raw.githubusercontent.com/malik0809/project/refs/heads/main/images/car2.jpeg",
+        "category": "SUV",
+        "features": [
+            "Vierwielaandrijving",
+            "Panoramadak",
+            "Head-up display"
+        ],
+        "dealer": {
+            "id": 102,
+            "name": "Luxury Cars BV",
+            "location": "Rotterdam, Nederland",
+            "contact": "+31 10 987 6543",
+            "website": "https://luxurycarsbv.nl"
+        }
     },
     {
-      "id": 3,
-      "name": "BMW M4",
-      "description": "De BMW M4 biedt indrukwekkende prestaties en een agressief design.",
-      "price": 82000,
-      "available": true,
-      "releaseDate": "2023-09-10",
-      "imageUrl": "https://raw.githubusercontent.com/malik0809/project/refs/heads/main/images/car3.jpeg",
-      "category": "Coupe",
-      "features": [
-        "Sportuitlaat",
-        "Adaptieve ophanging",
-        "Carbon dak"
-      ],
-      "dealerId": 103
+        "id": 3,
+        "name": "BMW M4",
+        "description": "De BMW M4 biedt indrukwekkende prestaties en een agressief design.",
+        "price": 82000,
+        "available": true,
+        "releaseDate": "2023-09-10",
+        "imageUrl": "https://raw.githubusercontent.com/malik0809/project/refs/heads/main/images/car3.jpeg",
+        "category": "Coupe",
+        "features": [
+            "Sportuitlaat",
+            "Adaptieve ophanging",
+            "Carbon dak"
+        ],
+        "dealer": {
+            "id": 103,
+            "name": "M Performance Center",
+            "location": "Utrecht, Nederland",
+            "contact": "+31 30 567 1234",
+            "website": "https://mperformancecenter.nl"
+        }
     },
     {
-      "id": 4,
-      "name": "BMW i4",
-      "description": "De BMW i4 is een volledig elektrische Gran Coupe met een futuristisch design.",
-      "price": 60000,
-      "available": true,
-      "releaseDate": "2024-02-01",
-      "imageUrl": "https://raw.githubusercontent.com/malik0809/project/refs/heads/main/images/car4.jpeg",
-      "category": "Electric",
-      "features": [
-        "Elektrische aandrijving",
-        "Groot touchscreen",
-        "Adaptive cruise control"
-      ],
-      "dealerId": 104
+        "id": 4,
+        "name": "BMW i4",
+        "description": "De BMW i4 is een volledig elektrische Gran Coupe met een futuristisch design.",
+        "price": 60000,
+        "available": true,
+        "releaseDate": "2024-02-01",
+        "imageUrl": "https://raw.githubusercontent.com/malik0809/project/refs/heads/main/images/car4.jpeg",
+        "category": "Electric",
+        "features": [
+            "Elektrische aandrijving",
+            "Groot touchscreen",
+            "Adaptive cruise control"
+        ],
+        "dealer": {
+            "id": 104,
+            "name": "Future Mobility",
+            "location": "Eindhoven, Nederland",
+            "contact": "+31 40 876 5432",
+            "website": "https://futuremobility.nl"
+        }
     },
     {
-      "id": 5,
-      "name": "BMW X7",
-      "description": "De BMW X7 is een ruime en luxueuze SUV met topklasse comfort.",
-      "price": 95000,
-      "available": false,
-      "releaseDate": "2022-08-18",
-      "imageUrl": "https://raw.githubusercontent.com/malik0809/project/refs/heads/main/images/car5.jpeg",
-      "category": "SUV",
-      "features": [
-        "Zeven zitplaatsen",
-        "Luchtvering",
-        "360 graden camera"
-      ],
-      "dealerId": 105
+        "id": 5,
+        "name": "BMW X7",
+        "description": "De BMW X7 is een ruime en luxueuze SUV met topklasse comfort.",
+        "price": 95000,
+        "available": false,
+        "releaseDate": "2022-08-18",
+        "imageUrl": "https://raw.githubusercontent.com/malik0809/project/refs/heads/main/images/car5.jpeg",
+        "category": "SUV",
+        "features": [
+            "Zeven zitplaatsen",
+            "Luchtvering",
+            "360 graden camera"
+        ],
+        "dealer": {
+            "id": 105,
+            "name": "Luxury SUVs BV",
+            "location": "Den Haag, Nederland",
+            "contact": "+31 70 123 9876",
+            "website": "https://luxurysuvsbv.nl"
+        }
     },
     {
-      "id": 6,
-      "name": "BMW Z4",
-      "description": "De BMW Z4 is een elegante roadster met een krachtige motor.",
-      "price": 58000,
-      "available": true,
-      "releaseDate": "2023-07-10",
-      "imageUrl": "https://raw.githubusercontent.com/malik0809/project/refs/heads/main/images/car6.jpeg",
-      "category": "Roadster",
-      "features": [
-        "Open dak",
-        "Sportstoelen",
-        "Harman Kardon audiosysteem"
-      ],
-      "dealerId": 106
+        "id": 6,
+        "name": "BMW Z4",
+        "description": "De BMW Z4 is een elegante roadster met een krachtige motor.",
+        "price": 58000,
+        "available": true,
+        "releaseDate": "2023-07-10",
+        "imageUrl": "https://raw.githubusercontent.com/malik0809/project/refs/heads/main/images/car6.jpeg",
+        "category": "Roadster",
+        "features": [
+            "Open dak",
+            "Sportstoelen",
+            "Harman Kardon audiosysteem"
+        ],
+        "dealer": {
+            "id": 106,
+            "name": "Sport Cars NL",
+            "location": "Groningen, Nederland",
+            "contact": "+31 50 654 3210",
+            "website": "https://sportcarsnl.nl"
+        }
     },
     {
-      "id": 7,
-      "name": "BMW X1",
-      "description": "De BMW X1 is een compacte SUV met sportieve rijeigenschappen.",
-      "price": 40000,
-      "available": true,
-      "releaseDate": "2023-10-05",
-      "imageUrl": "https://raw.githubusercontent.com/malik0809/project/refs/heads/main/images/car7.jpeg",
-      "category": "Compact SUV",
-      "features": [
-        "Efficiënte motor",
-        "Ruime koffer",
-        "Digitale cockpit"
-      ],
-      "dealerId": 107
+        "id": 7,
+        "name": "BMW X1",
+        "description": "De BMW X1 is een compacte SUV met sportieve rijeigenschappen.",
+        "price": 40000,
+        "available": true,
+        "releaseDate": "2023-10-05",
+        "imageUrl": "https://raw.githubusercontent.com/malik0809/project/refs/heads/main/images/car7.jpeg",
+        "category": "Compact SUV",
+        "features": [
+            "Efficiënte motor",
+            "Ruime koffer",
+            "Digitale cockpit"
+        ],
+        "dealer": {
+            "id": 107,
+            "name": "City Cars",
+            "location": "Haarlem, Nederland",
+            "contact": "+31 23 987 6543",
+            "website": "https://citycars.nl"
+        }
     },
     {
-      "id": 8,
-      "name": "BMW 5 Series",
-      "description": "De BMW 5 Serie is een premium sedan met high-tech functies.",
-      "price": 70000,
-      "available": false,
-      "releaseDate": "2023-06-20",
-      "imageUrl": "https://raw.githubusercontent.com/malik0809/project/refs/heads/main/images/car8.jpeg",
-      "category": "Luxury Sedan",
-      "features": [
-        "Comfortabele stoelen",
-        "Groot infotainmentscherm",
-        "Adaptieve LED-koplampen"
-      ],
-      "dealerId": 108
+        "id": 8,
+        "name": "BMW 5 Series",
+        "description": "De BMW 5 Serie is een premium sedan met high-tech functies.",
+        "price": 70000,
+        "available": false,
+        "releaseDate": "2023-06-20",
+        "imageUrl": "https://raw.githubusercontent.com/malik0809/project/refs/heads/main/images/car8.jpeg",
+        "category": "Luxury Sedan",
+        "features": [
+            "Comfortabele stoelen",
+            "Groot infotainmentscherm",
+            "Adaptieve LED-koplampen"
+        ],
+        "dealer": {
+            "id": 108,
+            "name": "Business Auto's",
+            "location": "Tilburg, Nederland",
+            "contact": "+31 13 765 4321",
+            "website": "https://businessautos.nl"
+        }
     },
     {
-      "id": 9,
-      "name": "BMW iX3",
-      "description": "De BMW iX3 is een volledig elektrische SUV met een strak design en efficiënte prestaties.",
-      "price": 65000,
-      "available": true,
-      "releaseDate": "2023-12-15",
-      "imageUrl": "https://raw.githubusercontent.com/malik0809/project/refs/heads/main/images/car9.jpeg",
-      "category": "Electric SUV",
-      "features": [
-        "Elektrische aandrijving",
-        "Snelladen",
-        "Sportieve rijeigenschappen"
-      ],
-      "dealerId": 109
+        "id": 9,
+        "name": "BMW iX3",
+        "description": "De BMW iX3 is een volledig elektrische SUV met een strak design en efficiënte prestaties.",
+        "price": 65000,
+        "available": true,
+        "releaseDate": "2023-12-15",
+        "imageUrl": "https://raw.githubusercontent.com/malik0809/project/refs/heads/main/images/car9.jpeg",
+        "category": "Electric SUV",
+        "features": [
+            "Elektrische aandrijving",
+            "Snelladen",
+            "Sportieve rijeigenschappen"
+        ],
+        "dealer": {
+            "id": 109,
+            "name": "Green Mobility",
+            "location": "Breda, Nederland",
+            "contact": "+31 76 234 5678",
+            "website": "https://greenmobility.nl"
+        }
     },
     {
-      "id": 10,
-      "name": "BMW 7 Series",
-      "description": "De BMW 7 Serie is een luxe sedan met geavanceerde technologie en ultiem comfort.",
-      "price": 110000,
-      "available": false,
-      "releaseDate": "2023-04-30",
-      "imageUrl": "https://raw.githubusercontent.com/malik0809/project/refs/heads/main/images/car10.jpeg",
-      "category": "Luxury Sedan",
-      "features": [
-        "Massage stoelen",
-        "Groot infotainmentscherm",
-        "Executive lounge"
-      ],
-      "dealerId": 110
+        "id": 10,
+        "name": "BMW 7 Series",
+        "description": "De BMW 7 Serie is een luxe sedan met geavanceerde technologie en ultiem comfort.",
+        "price": 110000,
+        "available": false,
+        "releaseDate": "2023-04-30",
+        "imageUrl": "https://raw.githubusercontent.com/malik0809/project/refs/heads/main/images/car10.jpeg",
+        "category": "Luxury Sedan",
+        "features": [
+            "Massage stoelen",
+            "Groot infotainmentscherm",
+            "Executive lounge"
+        ],
+        "dealer": {
+            "id": 110,
+            "name": "Elite Auto’s",
+            "location": "Maastricht, Nederland",
+            "contact": "+31 43 876 5432",
+            "website": "https://eliteautos.nl"
+        }
     }
 ]
