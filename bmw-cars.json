@@ -1,4 +1,4 @@
-    {
+[    {
       "id": 1,
       "name": "BMW 3 Series",
       "description": "De BMW 3 Serie is een sportieve en elegante sedan met uitstekende rijeigenschappen.",
@@ -158,3 +158,4 @@
       ],
       "dealerId": 110
     }
+]
